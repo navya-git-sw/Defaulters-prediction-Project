@@ -1,7 +1,7 @@
 # Defaulters-prediction-Project
 Objective of the project is to predict the defaulters using ANFIS algorithm on open source data.Built simple ANFIS algorithm to predict the defaulters.
 
-Note - This project work still in progress. Version 1 completed. Version 1 includes simple ANFIS algorithm with tensorflow. I would like to built simple ANFIS with Keras, this is considered as version 2.Keras implementation is in progress
+Note -Version 1 of this project is completed. Version 1 includes simple ANFIS algorithm with tensorflow. I would like to built simple ANFIS with Keras, this is considered as version 2.Keras implementation is in progress
 
 Acknowledgment:
 
